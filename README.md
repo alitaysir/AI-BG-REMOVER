@@ -1,6 +1,6 @@
 # Background Removal SaaS Application
 
-# Live Demo: [https://bg-removal-frontend-two.vercel.app/]
+** Live Demo**: [https://bg-removal-frontend-two.vercel.app/]
 
 A full-stack MERN (MongoDB, Express, React, Node.js) SaaS application that allows users to remove the background from images. The app integrates **Clerk** for authentication and **Razorpay** for payment processing. Users receive **5 credits on login**, with **1 credit deducted per image edit**. Additional credits can be purchased if needed. The backend uses Clerk webhooks to manage user data effectively.
 
